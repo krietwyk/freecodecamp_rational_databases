@@ -1,6 +1,6 @@
 # Build a World Cup Database
 
-My solution to World Cup Database for the Relational Database course on freecodecamp.
+My solution to World Cup Database for the Relational Database course on freecodecamp.  
 https://www.freecodecamp.org/learn/relational-database/#build-a-world-cup-database-project
 
 Project details from freecodecamp:  
