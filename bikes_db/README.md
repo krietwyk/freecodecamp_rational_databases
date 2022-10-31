@@ -10,4 +10,4 @@ Reminder, to dump database used (in bash):
 pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
 
 Load database using:  
-ppsql -U postgres < bikes.sql
+psql -U postgres < bikes.sql
