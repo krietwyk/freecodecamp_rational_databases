@@ -1,6 +1,6 @@
 # Salon Appointment Scheduler
 
-Project for the Relational Database course on freecodecamp.
+Project for the Relational Database course on freecodecamp.  
 https://www.freecodecamp.org/learn/relational-database/#build-a-salon-appointment-scheduler-project
 
 Project details from freecodecamp:
