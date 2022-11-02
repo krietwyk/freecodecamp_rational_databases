@@ -17,3 +17,5 @@ I won't store all of the class here, so are particularly basic but the more chal
 ### World Cup Database
 ### Learn Advanced Bash by Building a Kitty Ipsum Translator
 ### Learn Bash and SQL by Building a Bike Rental Shop
+### Salon Appointment Scheduler
+### Learn Nano by Building a Castle
