@@ -1,4 +1,4 @@
-Periodic Table Database
+# Periodic Table Database
 
 Project for the Relational Database course on freecodecamp.  
 https://www.freecodecamp.org/learn/relational-database/#build-a-periodic-table-database-project  
