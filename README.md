@@ -1,6 +1,6 @@
-# Freecodecamp Rational Databases
+# Freecodecamp Relational Databases
 
-Storage of my classes and projects from the freecodecamp course: Rational Databases. It is a great free online course of studying PostgreSQL! 
+Storage of my classes and projects from the freecodecamp course: Relational Databases. It is a great free online course of studying PostgreSQL! 
 
 From freecodecamp:
 For these courses, you will use real developer tools and software including VS Code, PostgreSQL, and the Linux / Unix command line to complete interactive tutorials and build projects.
@@ -19,3 +19,4 @@ I won't store all of the class here, so are particularly basic but the more chal
 ### Learn Bash and SQL by Building a Bike Rental Shop
 ### Salon Appointment Scheduler
 ### Learn Nano by Building a Castle
+### Learn Git by Building an SQL Reference Object
